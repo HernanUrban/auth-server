@@ -1,0 +1,12 @@
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/AuthServerApplication.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/config/EncoderConfig.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/config/JwtAuthFilter.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/config/SecurityConfig.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/controller/AuthController.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/dto/AuthRequest.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/dto/AuthResponse.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/dto/RegisterRequest.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/entity/User.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/repository/UserRepository.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/service/JwtService.java
+/Users/hernanurban/github/hernanurban/e2e-auth-resource/auth-server/src/main/java/com/hurban/authserver/service/UserService.java
